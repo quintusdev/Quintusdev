@@ -11,9 +11,44 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="https://scontent.fvrn2-1.fna.fbcdn.net/v/t39.30808-6/292035127_10221563453256090_6515113032933166905_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=8OHIop1mZeMAX96VOo7&_nc_ht=scontent.fvrn2-1.fna&oh=00_AfCz80BVT-cA30bAliTHPQqBZIzleudWLWv2idDChkEvmw&oe=63FD0EDE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
--->
+
+
+## About me
+Hi I'm Marco. I'd like to become a developer and contribut to open source project's.
+
+
+<details>
+<summary>My top Languages</summary>
+
+| Rank |   Languages   |
+|-----:|---------------|
+|     1|     HTML      |
+|     2|  JavaScript   |
+|     3|    Python     |
+
+</details>
+
+<details>
+<summary>My top hobbies</summary>
+
+| Rank |    Hobbies    |
+|-----:|---------------|
+|     1|     Learn     |
+|     2|  Development  |
+|     3|     Photo     |
+
+</details>
+
+
+---
+
+>"I may not be where I want to be yet, but I'm getting closer every day"
+- Marco
+
