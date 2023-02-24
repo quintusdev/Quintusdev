@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **quintusdev/Quintusdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="https://scontent.fvrn2-1.fna.fbcdn.net/v/t39.30808-6/292035127_10221563453256090_6515113032933166905_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=8OHIop1mZeMAX96VOo7&_nc_ht=scontent.fvrn2-1.fna&oh=00_AfCz80BVT-cA30bAliTHPQqBZIzleudWLWv2idDChkEvmw&oe=63FD0EDE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
 -->
